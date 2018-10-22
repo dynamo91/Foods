@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food!</string>
+    <string name="error_food_not_found">Could not find details</string>
+    <string name="error_network">Network error, please try again</string>
+    <string name="error_database">An error occurred, please contact customer service</string>
+    <string name="fragment_title_search">Search</string>
+    <string name="fragment_title_details">Details</string>
+    <string name="fragment_title_favourites">Favorites</string>
+    <string name="search_empty_state">Search for an ingredient or meal</string>
+    <string name="search_label">Search</string>
+
+    <string name="contents_grams_per_serving">Grams per serving %s</string>
+    <string name="contents_calories">Calories %d</string>
+    <string name="contents_cholesterol">Cholesterol %s</string>
+    <string name="contents_sugar">Sugar %s</string>
+    <string name="contents_fiber">Fiber %s</string>
+    <string name="contents_unsaturatedfat">Unsaturatedfat %s</string>
+    <string name="contents_potassium">Potassium %s</string>
+    <string name="contents_sodium">Sodium %s</string>
+    <string name="contents_protein">Protein %s</string>
+    <string name="contents_fat">Fat %s</string>
+    <string name="contents_carbohydrates">Carbohydrates %s</string>
+    <string name="contents_saturated_fat">Saturated fat %s</string>
+
+</resources>
